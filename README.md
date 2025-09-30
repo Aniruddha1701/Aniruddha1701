@@ -1,203 +1,218 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aniruddha%20Patil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  
+# 👋 Welcome to My Digital Workspace
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Aniruddha+Patil;Full+Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+
+<p align="center">
+  <a href="mailto:aniruddhap66@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aniruddha-patil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=aniruddha1701&color=6366f1&style=flat-square&label=Profile+Views" />
+</p>
+
 </div>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%8C%9F;Always+Learning+New+Tech+%F0%9F%93%9A)](https://git.io/typing-svg)
-  
-  <img src="https://komarev.com/ghpvc/?username=aniruddha1701&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  
-</div>
+---
 
-<br/>
+## 🎯 Professional Summary
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+Passionate Full Stack Developer specializing in modern web technologies and scalable application architecture. With expertise across the complete development lifecycle, I transform complex requirements into elegant, efficient solutions. Currently focused on building high-performance applications using the MERN stack while continuously expanding my technical expertise.
 
-```javascript
-const aniruddha = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-        },
-        databases: ["MongoDB", "MySQL", "Firebase"],
-    },
-    currentFocus: "Building scalable MERN stack applications",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
-```
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🚀 Current Focus
+- Building enterprise-grade MERN applications
+- Mastering advanced React patterns & optimization
+- Exploring microservices architecture
+- Contributing to open-source projects
 
-## 🎯 What I'm Up To
+</td>
+<td width="50%" valign="top">
 
-<table>
-  <tr>
-    <td>🔭</td>
-    <td><b>Currently working on</b> full-stack projects using MERN stack</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td><b>Learning</b> advanced React patterns, microservices architecture</td>
-  </tr>
-  <tr>
-    <td>💡</td>
-    <td><b>Interested in</b> DevOps, Cloud Computing, and AI/ML integration</td>
-  </tr>
-  <tr>
-    <td>🎓</td>
-    <td><b>Improving</b> system design and scalability concepts</td>
-  </tr>
-  <tr>
-    <td>💬</td>
-    <td><b>Ask me about</b> React, Node.js, MongoDB, or anything tech!</td>
-  </tr>
+### 🎓 Learning Path
+- System Design & Architecture
+- Cloud Computing (AWS/Azure)
+- DevOps & CI/CD Pipelines
+- GraphQL & Advanced APIs
+
+</td>
+</tr>
 </table>
 
-<br/>
+---
 
-## 🛠️ Tech Stack & Tools
+## 💼 Technical Expertise
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Styling** | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Runtime** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Frameworks** | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Cloud</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Cloud/BaaS** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Technologies</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+
+</details>
+
+---
+
+## 📊 GitHub Performance Metrics
 
 <div align="center">
 
-### 👨‍💻 Languages
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniruddha1701&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=8" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha1701&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=c9d1d9&border_radius=8" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aniruddha1701&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_radius=8&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aniruddha1701&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=aniruddha1701&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies" width="100%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddha1701&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Key Projects & Work
+
+```mermaid
+mindmap
+  root((Full Stack
+    Development))
+    Frontend
+      React Applications
+      Responsive Design
+      State Management
+      Performance Optimization
+    Backend
+      RESTful APIs
+      Database Design
+      Authentication
+      Server Architecture
+    DevOps
+      Version Control
+      Deployment
+      CI/CD
+      Code Review
+```
+
+---
+
+## 💡 Development Philosophy
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎯 Clean Code
+Writing maintainable, readable, and efficient code that stands the test of time
+
+</td>
+<td width="33%" align="center">
+
+### 🔄 Continuous Learning
+Staying current with emerging technologies and best practices
+
+</td>
+<td width="33%" align="center">
+
+### 🤝 Collaboration
+Building solutions through effective teamwork and communication
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### I'm always interested in collaborating on innovative projects!
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <a href="mailto:aniruddhap66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aniruddhap66@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-### 🎨 Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <a href="https://linkedin.com/in/aniruddha-patil">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aniruddha1701">
+    <img src="https://img.shields.io/badge/Follow_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-### ⚙️ Backend Development
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+*Open to exciting opportunities and challenging projects*
 
 </div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniruddha1701&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha1701&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F97316&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha1701&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddha1701&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniruddha1701&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddha1701&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniruddhap66@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddha-patil)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  
-</div>
-
-<br/>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
-<br/>
-
-## 🎵 Coding Jam
-
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-  
-  <i>What I'm listening to while coding 🎧</i>
-  
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![snake gif](https://github.com/aniruddha1701/aniruddha1701/blob/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
-<br/>
 
 ---
 
 <div align="center">
   
-  ### 💬 Show some ❤️ by starring some repositories!
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
+### ⭐ From [aniruddha1701](https://github.com/aniruddha1701)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer" width="100%"/>
+
 </div>
