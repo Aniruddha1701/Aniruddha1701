@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=6366F1&background=00000000&center=true&vCenter=true&width=750&height=50&lines=🚀+Building+Scalable+Web+Applications;💡+Turning+Ideas+into+Real+Products;🔥+MERN+Stack+%2B+TypeScript+Expert;⚡+Always+Learning%2C+Always+Growing;🌐+Open+Source+Contributor+in+the+Making;🧠+System+Design+%26+Cloud+Enthusiast" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=750&height=50&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Turning+Ideas+into+Real+Products+%F0%9F%92%A1;MERN+Stack+%2B+TypeScript+Expert+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%E2%9A%A1;Open+Source+Contributor+in+the+Making+%F0%9F%8C%90;System+Design+%26+Cloud+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
 
 </div>
 
@@ -246,14 +244,14 @@ const aniruddha: Developer = {
 
 ---
 
-## 🎯 2025 Roadmap
+## 🎯 2026 Roadmap
 
 <div align="center">
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200"/>
 
 ```
- 🗺️  2025 GOALS & MILESTONES
+ 🗺️  2026 GOALS & MILESTONES
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ✅  Build a MERN authentication system
   ✅  Launch StayEase (Rental Platform)
